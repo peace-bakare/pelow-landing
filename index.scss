@@ -1,0 +1,94 @@
+body {
+    max-width: 100%;
+}
+
+/* .navigation-form {
+    margin: 5em;
+} */
+
+.navigation {    
+    padding: 6em 5em 0 4em;
+    background-color: azure;
+}
+.description{
+    padding-bottom: 1em;
+}
+
+.cards-side-text, .navigator, .online-platform, .details, .buy-now, .countries, .coming-soon, .afford-it, .afford-text, .begin, .cost-housing {
+    padding-bottom: 2em;
+}
+
+.navigator, .tab-content1 {
+    padding-left: 6em;
+}
+
+.topmost {
+    padding-bottom: 10em;
+}
+
+.navbar-form {
+    padding: 6em 5em 7em 5em;
+}
+
+.details {
+    padding-left: 3em;
+}
+
+.cards-side-text, .countries, .coming-soon, .cost-housing {
+    padding-top: 2em;
+}
+
+/* .repeated-grid {
+    position: absolute;
+} */
+
+.operations, .how-it-works, .afford-it {
+    margin-bottom: 4em;
+}
+
+.first-card-text, .second-card-text, .third-card-text {
+    position: absolute;
+    padding: 4em 2em 3em 2em;
+}
+
+// .first-card {
+//     padding-left: 2em;
+// }
+
+.ready-to-begin {
+    background-color: rgb(89, 201, 201);
+    padding: 4em;
+    border-radius: 35% 35% 0 0;
+}
+
+.afford-it {
+    padding: 5em 0 5em 0;
+    width: 100%;
+}
+
+.big-deal, .safe-text, .landlord-machine, .buyer-rent, .seller-offer, .pelow-payment {
+    padding: 3em 0 3em 0;
+}
+
+.safe-images {
+    margin: 6em 6em 3em 0;
+}
+
+.dollar-text, .bounce.text, .count-text {
+    padding: 2em 0 2em 0;
+}
+
+.human {
+    width: 100%;
+}
+
+.machine-div {
+    box-shadow: 0.1em 0.1em 0.1em 0.1em lightgray;
+    border-radius: 2em;
+    padding: 2em 2em 2em 7em;
+}
+
+.rent-div, .offer-div, .payment-div {
+    box-shadow: 0.1em 0.1em 0.1em 0.1em lightgray;
+    border-radius: 2em;
+}
